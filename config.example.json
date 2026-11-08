@@ -1,0 +1,15 @@
+{
+  "config_dir": "~/.config/colab-cli",
+  "proxy": "",
+  "accounts": [
+    "token.account1.json"
+  ],
+  "drive_owner_token": "token.account1.json",
+  "drive_quota_project": "",
+  "gateway_host": "127.0.0.1",
+  "gateway_port": 11435,
+  "state_file": "current_cf_url.txt",
+  "log_file": "gateway.log",
+  "verification_targets": [],
+  "context_size": 131072
+}
